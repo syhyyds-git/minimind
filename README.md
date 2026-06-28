@@ -4,6 +4,12 @@
 
 </div>
 
+> **Personal learning fork / 个人学习分支**
+>
+> English: This fork is based on [jingyaogong/minimind](https://github.com/jingyaogong/minimind). The original MiniMind source remains authored by the MiniMind project under Apache-2.0. My additions are mainly under [`course/`](course/) for source-code-driven notes, runnable labs, teaching implementations, and learning records. Start from [`COURSE.md`](COURSE.md).
+>
+> 中文：这是基于 [jingyaogong/minimind](https://github.com/jingyaogong/minimind) 的个人学习分支。原 MiniMind 源码仍归原项目作者所有，并遵循 Apache-2.0 协议。我的主要新增内容在 [`course/`](course/) 目录，包括源码学习笔记、可运行实验、教学版实现和学习记录。课程入口见 [`COURSE.md`](COURSE.md)。
+
 <div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jingyaogong/minimind)
